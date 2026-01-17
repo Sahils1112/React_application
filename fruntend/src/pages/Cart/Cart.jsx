@@ -49,7 +49,7 @@ const Cart = () => {
         })}
       </div>
 
-      <div className="cart-summary">
+      <div className="summary of cart">
         <h3>Cart Summary</h3>
         <div className="summary-details">
           <p>Subtotal: <b>₹{totalAmount}</b></p>
