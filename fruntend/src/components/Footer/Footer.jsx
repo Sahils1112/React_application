@@ -10,7 +10,7 @@ const Footer = () => {
         {/* Logo & Description */}
         <div className="footer-section footer-left">
           <img src={assets.logo} alt="Foodie Logo" className="footer-logo" />
-          <p>At Foodie, we deliver more than just meals — we bring fresh flavors, quick service, and delightful experiences straight to your doorstep. Because great food deserves great delivery.</p>
+          <p>At Foodie, we ensure and deliver more than just meals — we bring fresh flavors, quick service, and delightful experiences straight to your doorstep. Because great food deserves great delivery.</p>
         </div>
 
         {/* Quick Links */}
